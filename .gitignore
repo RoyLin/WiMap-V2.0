@@ -3,3 +3,4 @@
 *\bin\*
 *.jar
 *.svn*
+*.class
